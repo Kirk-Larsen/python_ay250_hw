@@ -1,0 +1,37 @@
+Your score: 11/17
+
+-1 uncommented code
+
+Breakdown & Comments: 
+
+----------------------------------------
+Problem 1: 5/5
+----------------------------------------
+1/1: plot with caption
+4/4: analysis
+
+I would argue that they should have shown the 
+input spectrum if the main point is that the 
+output you get from the input is cool
+
+----------------------------------------
+Problem 2: 2/7
+----------------------------------------
+2/3: Recreated plot
+2/3: New dynamic interactions
+0/1: Analysis of changes
+-2 export issue
+
+all of your paths were hard-coded. I would need 
+to change them all just to run your code. I refuse to 
+do so since I told y'all to watch out for this already.
+Therefore I cannot run your code to see your answer or 
+check your work.
+
+----------------------------------------
+Problem 3: 5/5
+----------------------------------------
+5/5: Reproduced plot: title, twin_x, legend, limits, linestyles
+
+
+Graded by C. E. Harris
