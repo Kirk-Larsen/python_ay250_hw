@@ -10,10 +10,10 @@ fig, ax = plt.subplots(figsize=(8, 8), facecolor='black')
 grays_linear = list(np.linspace(0.2, 0.8, 50))
 
 #move through grayscale cubicly
-grays_cubic = [x**3 for x in np.linspace(0.2,0.8,100)]
+grays_cubic = [x**3 for x in np.linspace(0.2,0.8,50)]
 
 #jump between the two extremes of grayscale (binary pattern/square wave)
-grays_binary = [0.2]*10 + [0.8]*10
+grays_binary = [0.2]*25 + [0.8]*25
 
 #create cycle iterator to return elements from the grayscale concatenated with its reversed self
 #assign desired pattern (linear, cubic, binary) below
